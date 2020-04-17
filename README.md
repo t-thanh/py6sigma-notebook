@@ -1,2 +1,2 @@
 # py6sigma-notebook
-Collection of Python notebook for Sux Sigma tools
+Collection of Python notebook for Six Sigma tools
